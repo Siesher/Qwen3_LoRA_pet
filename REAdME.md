@@ -57,7 +57,7 @@ run_inference_with_code_execution(
 
 Обученные модели можно найти на Hugging Face, а именно https://huggingface.co/Siesher
 
-Обучение моделей построен на оснвое следующих статей:
+Обучение моделей построено на основе следующих статей:
 - Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks
     URL: https://arxiv.org/abs/2211.12588
 - Distilling mathematical reasoning capabilities into Small Language Models
